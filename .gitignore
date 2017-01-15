@@ -1,0 +1,10 @@
+.idea/
+personallog-srv.iml
+
+bin/
+build/
+tmp/
+
+assets/images
+
+/aaaa
